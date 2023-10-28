@@ -1,13 +1,13 @@
 # 💫 About Me:
-👋 Hi there! I'm Seyed Mahdi Mohammad Alizadeh, also known as Aryan Alizadeh, a passionate software developer and open-source enthusiast. I love creating innovative solutions and contributing to the ever-evolving world of technology.
-🌍 I have a diverse set of interests, from web development to machine learning, and I'm always eager to explore new horizons in the world of code.
-🚀 When I'm not coding, you can find me exploring new game worlds 🎮, watching the latest blockbuster movies 🎬, spending time with friends and going to the gym for a good workout 💪. I believe in the power of continuous learning and enjoy sharing my knowledge with the developer community.
-📫 Feel free to reach out to me for collaboration, discussions, or just to say hello! You can connect with me through GitHub or find me on:
-- Instagram: [@aryan.alz](https://www.instagram.com/aryan.alz)
-- LinkedIn: [aryan-alizadeh](https://www.linkedin.com/in/aryan-alizadeh)
-- Email: aryan.alz@yahoo.com
-🛠️ I've listed all the tools, languages, and libraries I work with in the "Tech Stack" section. I'd be delighted if you take a look.
-🌟 Let's code and build the future together!
+👋 Hi there! I'm Seyed Mahdi Mohammad Alizadeh, also known as Aryan Alizadeh, a passionate software developer and open-source enthusiast. I love creating innovative solutions and contributing to the ever-evolving world of technology.<br>
+🌍 I have a diverse set of interests, from web development to machine learning, and I'm always eager to explore new horizons in the world of code.<br>
+🚀 When I'm not coding, you can find me exploring new game worlds 🎮, watching the latest blockbuster movies 🎬, spending time with friends and going to the gym for a good workout 💪. I believe in the power of continuous learning and enjoy sharing my knowledge with the developer community.<br>
+📫 Feel free to reach out to me for collaboration, discussions, or just to say hello! You can connect with me through GitHub or find me on:<br>
+- Instagram: [@aryan.alz](https://www.instagram.com/aryan.alz)<br>
+- LinkedIn: [aryan-alizadeh](https://www.linkedin.com/in/aryan-alizadeh)<br>
+- Email: aryan.alz@yahoo.com<br>
+🛠️ I've listed all the tools, languages, and libraries I work with in the "Tech Stack" section. I'd be delighted if you take a look.<br>
+🌟 Let's code and build the future together!<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aryan_evan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan.alz) 
